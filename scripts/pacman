@@ -1,2 +1,0 @@
-/usr/bin/pacman $@
-pkill -RTMIN+8 dwmblocks

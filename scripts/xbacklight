@@ -1,2 +1,3 @@
+#!/usr/bin/bash
 /usr/bin/xbacklight $@
-pkill -RTMIN+7 dwmblocks
+pkill -RTMIN+7 dwmblocks &
