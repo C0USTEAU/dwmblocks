@@ -1,0 +1,2 @@
+/usr/bin/yay $@
+pkill -RTMIN+8 dwmblocks

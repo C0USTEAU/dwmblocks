@@ -1,4 +1,0 @@
-set -e
-\xbacklight -set $1 
-kill $(pidof dwmblocks)
-dwmblocks &

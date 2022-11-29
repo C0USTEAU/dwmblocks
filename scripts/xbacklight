@@ -1,0 +1,2 @@
+/usr/bin/xbacklight $@
+pkill -RTMIN+7 dwmblocks
