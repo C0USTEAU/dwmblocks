@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-echo 💡$(/usr/bin/lux -G)
+echo " 💡$(/usr/bin/lux -G) "
